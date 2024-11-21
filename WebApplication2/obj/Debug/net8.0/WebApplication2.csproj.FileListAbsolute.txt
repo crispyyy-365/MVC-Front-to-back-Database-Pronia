@@ -143,3 +143,4 @@ C:\Users\User\desktop\code.homeworks\WebApplication2\WebApplication2\bin\Debug\n
 C:\Users\User\desktop\code.homeworks\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\User\desktop\code.homeworks\WebApplication2\WebApplication2\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\User\desktop\code.homeworks\WebApplication2\WebApplication2\obj\Debug\net8.0\WebAppli.0DB3FC1A.Up2Date
+C:\Users\User\desktop\code.homeworks\WebApplication2\WebApplication2\obj\Debug\net8.0\WebApplication2.sourcelink.json

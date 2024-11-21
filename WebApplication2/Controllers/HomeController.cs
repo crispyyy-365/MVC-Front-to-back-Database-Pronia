@@ -14,12 +14,10 @@ namespace WebApplication2.Controllers
 			_context = context;
 		}
 		public IActionResult Index()
-		{
-			List<Slide> slides = _context.Slides.OrderBy(s=>s.Order).ToList();
-
+		{ 
 			HomeVM homeVm = new HomeVM
 			{
-				Slides = slides
+				Slides = _context.Slides.OrderBy(s => s.Order).ToList()
 			};
 			return View(homeVm);
 		}
