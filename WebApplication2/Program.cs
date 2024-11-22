@@ -11,9 +11,9 @@ namespace WebApplication2
 
             builder.Services.AddControllersWithViews();
 
-            builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer("server=LAPTOP-E5JPOQ6L\\SQLEXPRESS;database=Pronia;trusted_connection=true;integrated security=true;TrustServerCertificate=true;"));
+			builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
-            var app = builder.Build();
+			var app = builder.Build();
 
             app.UseStaticFiles();
 
