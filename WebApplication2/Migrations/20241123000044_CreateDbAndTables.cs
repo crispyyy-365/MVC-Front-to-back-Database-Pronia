@@ -6,13 +6,13 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace WebApplication2.Migrations
 {
     /// <inheritdoc />
-    public partial class CreateAllTables : Migration
+    public partial class CreateDbAndTables : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.CreateTable(
-                name: "categories",
+                name: "Categories",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -23,7 +23,7 @@ namespace WebApplication2.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_categories", x => x.Id);
+                    table.PrimaryKey("PK_Categories", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -32,9 +32,8 @@ namespace WebApplication2.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Button = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    Subtitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
+                    SubTitle = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Image = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Order = table.Column<int>(type: "int", nullable: false),
@@ -47,11 +46,12 @@ namespace WebApplication2.Migrations
                 });
 
             migrationBuilder.CreateTable(
-                name: "products",
+                name: "Products",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Price = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     SKU = table.Column<string>(type: "nvarchar(max)", nullable: false),
@@ -62,17 +62,17 @@ namespace WebApplication2.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_products", x => x.Id);
+                    table.PrimaryKey("PK_Products", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_products_categories_CategoryId1",
+                        name: "FK_Products_Categories_CategoryId1",
                         column: x => x.CategoryId1,
-                        principalTable: "categories",
+                        principalTable: "Categories",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateTable(
-                name: "productImages",
+                name: "ProductImages",
                 columns: table => new
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
@@ -86,23 +86,23 @@ namespace WebApplication2.Migrations
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_productImages", x => x.Id);
+                    table.PrimaryKey("PK_ProductImages", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_productImages_products_ProductId1",
+                        name: "FK_ProductImages_Products_ProductId1",
                         column: x => x.ProductId1,
-                        principalTable: "products",
+                        principalTable: "Products",
                         principalColumn: "Id",
                         onDelete: ReferentialAction.Cascade);
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_productImages_ProductId1",
-                table: "productImages",
+                name: "IX_ProductImages_ProductId1",
+                table: "ProductImages",
                 column: "ProductId1");
 
             migrationBuilder.CreateIndex(
-                name: "IX_products_CategoryId1",
-                table: "products",
+                name: "IX_Products_CategoryId1",
+                table: "Products",
                 column: "CategoryId1");
         }
 
@@ -110,16 +110,16 @@ namespace WebApplication2.Migrations
         protected override void Down(MigrationBuilder migrationBuilder)
         {
             migrationBuilder.DropTable(
-                name: "productImages");
+                name: "ProductImages");
 
             migrationBuilder.DropTable(
                 name: "Slides");
 
             migrationBuilder.DropTable(
-                name: "products");
+                name: "Products");
 
             migrationBuilder.DropTable(
-                name: "categories");
+                name: "Categories");
         }
     }
 }

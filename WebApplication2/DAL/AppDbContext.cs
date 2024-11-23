@@ -7,8 +7,8 @@ namespace WebApplication2.DAL
 	{
 		public AppDbContext(DbContextOptions<AppDbContext> options) : base(options) { }
 		public DbSet<Slide> Slides { get; set; }
-		public DbSet<Category> categories { get; set; }
-		public DbSet<Product> products { get; set; }
-		public DbSet<ProductImage> productImages { get; set; }
+		public DbSet<Category> Categories { get; set; }
+		public DbSet<Product> Products { get; set; }
+		public DbSet<ProductImage> ProductImages { get; set; }
 	}
 }

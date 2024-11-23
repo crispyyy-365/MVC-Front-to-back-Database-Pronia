@@ -12,15 +12,15 @@ using WebApplication2.DAL;
 namespace WebApplication2.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241122100443_CreateAllTables")]
-    partial class CreateAllTables
+    [Migration("20241123000044_CreateDbAndTables")]
+    partial class CreateDbAndTables
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "8.0.11")
+                .HasAnnotation("ProductVersion", "9.0.0")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -45,7 +45,7 @@ namespace WebApplication2.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("categories");
+                    b.ToTable("Categories");
                 });
 
             modelBuilder.Entity("WebApplication2.Models.Product", b =>
@@ -73,6 +73,10 @@ namespace WebApplication2.Migrations
                     b.Property<bool>("IsDeleted")
                         .HasColumnType("bit");
 
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
 
@@ -84,7 +88,7 @@ namespace WebApplication2.Migrations
 
                     b.HasIndex("CategoryId1");
 
-                    b.ToTable("products");
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("WebApplication2.Models.ProductImage", b =>
@@ -119,7 +123,7 @@ namespace WebApplication2.Migrations
 
                     b.HasIndex("ProductId1");
 
-                    b.ToTable("productImages");
+                    b.ToTable("ProductImages");
                 });
 
             modelBuilder.Entity("WebApplication2.Models.Slide", b =>
@@ -129,10 +133,6 @@ namespace WebApplication2.Migrations
                         .HasColumnType("int");
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Button")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
@@ -151,7 +151,7 @@ namespace WebApplication2.Migrations
                     b.Property<int>("Order")
                         .HasColumnType("int");
 
-                    b.Property<string>("Subtitle")
+                    b.Property<string>("SubTitle")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
