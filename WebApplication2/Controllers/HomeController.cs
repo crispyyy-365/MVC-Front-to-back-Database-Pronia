@@ -14,19 +14,19 @@ namespace WebApplication2.Controllers
 		{
 			_context = context;
 		}
-		public IActionResult Index()
+		public async Task<IActionResult> Index()
 		{
 			HomeVM homeVm = new HomeVM
 			{
-				Slides = _context.Slides
+				Slides = await _context.Slides
 				.OrderBy(s => s.Order)
-				.ToList(),
+				.ToListAsync(),
 
-				Products = _context.Products
+				Products = await _context.Products
 				.Where(p => p.IsDeleted != false)
 				.Take(8)
 				.Include(p => p.ProductImages.Where(p => p.IsPrimary != false))
-				.ToList()
+				.ToListAsync()
 			};
 
 		    //_context.SaveChanges();

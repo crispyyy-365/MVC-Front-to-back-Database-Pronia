@@ -18,14 +18,14 @@ namespace WebApplication2.Controllers
 		{
 			return View();
 		}
-		public IActionResult Details(int? id)
+		public async Task<IActionResult> Detail(int? id)
 		{
 			if (id == null || id < 0) return BadRequest();
 
-			Product? product = _context.Products
+			Product? product = await _context.Products
 				.Include(product => product.ProductImages.OrderByDescending(pi => pi.IsPrimary))
 				.Include(p => p.Category)
-				.FirstOrDefault(p => p.Id == id);
+				.FirstOrDefaultAsync(p => p.Id == id);
 
 			if (product is null) return NotFound();
 
@@ -33,14 +33,13 @@ namespace WebApplication2.Controllers
 			{
 				Product = product,
 
-				RelatedProducts = _context.Products
+				RelatedProducts = await _context.Products
 				.Where(p => p.CategoryId == product.CategoryId && p.Id != id)
 				.Include(p => p.ProductImages.Where(pi => pi != null))
 				.Take(8)
-				.ToList(),
+				.ToListAsync(),
 			};
-			
-			return View();
+			return View(detailVM);
 		}
 	}
 }
