@@ -18,6 +18,10 @@ namespace WebApplication2
             app.UseStaticFiles();
 
             app.MapControllerRoute(
+                name: "admin",
+                pattern: "{area:exists}/{controller=home}/{action=index}/{id?}");
+
+            app.MapControllerRoute(
                 name: "default",
                 pattern: "{controller=home}/{action=index}/{id?}");
 
