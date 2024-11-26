@@ -10,7 +10,7 @@ namespace WebApplication2.Models
 		public string SKU { get; set; }
 
 		//relational
-		public string CategoryId { get; set; }
+		public int CategoryId { get; set; }
 		public Category Category { get; set; }
 		public List<ProductImage> ProductImages { get; set; }
 	}
