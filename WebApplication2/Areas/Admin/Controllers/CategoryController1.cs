@@ -54,7 +54,7 @@ namespace WebApplication2.Areas.Admin.Controllers
 		{
 			if (id == null || id < 1) return BadRequest();
 			
-			Category category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+			Category? category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
 
 			if (category is null) return NotFound();
 
@@ -66,7 +66,7 @@ namespace WebApplication2.Areas.Admin.Controllers
 		{
 			if (id == null || id < 1) return BadRequest();
 
-			Category existed = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+			Category? existed = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
 
 			if (category is null) return NotFound();
 
@@ -94,7 +94,7 @@ namespace WebApplication2.Areas.Admin.Controllers
 		{
 			if (id == null || id < 1) return BadRequest();
 
-			Category category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
+			Category? category = await _context.Categories.FirstOrDefaultAsync(c => c.Id == id);
 
 			if (category is null) return NotFound();
 
