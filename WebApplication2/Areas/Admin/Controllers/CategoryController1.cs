@@ -18,7 +18,10 @@ namespace WebApplication2.Areas.Admin.Controllers
 		}
 		public async Task<IActionResult> Index()
 		{
-			List<Category> categories = await _context.Categories.Where(c => !c.IsDeleted).Include(c => c.products).ToListAsync();
+			List<Category> categories = await _context.Categories
+				.Where(c => !c.IsDeleted)
+				.Include(c => c.products)
+				.ToListAsync();
 
 			return View(categories);
 		}

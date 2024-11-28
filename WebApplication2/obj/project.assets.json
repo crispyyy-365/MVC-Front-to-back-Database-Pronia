@@ -7769,9 +7769,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\desktop\\code.homeworks\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
-      "projectName": "WebApplication2",
-      "projectPath": "C:\\Users\\User\\desktop\\code.homeworks\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
+      "projectUniqueName": "C:\\Users\\User\\desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Pronia.csproj",
+      "projectName": "Pronia",
+      "projectPath": "C:\\Users\\User\\desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Pronia.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\User\\desktop\\code.homeworks\\WebApplication2\\WebApplication2\\obj\\",
       "projectStyle": "PackageReference",

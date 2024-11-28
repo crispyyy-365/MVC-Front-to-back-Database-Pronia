@@ -1169,24 +1169,24 @@
       "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pronia.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Pronia.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication2.props",
-      "PackagePath": "build\\WebApplication2.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Pronia.props",
+      "PackagePath": "build\\Pronia.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication2.props",
-      "PackagePath": "buildMultiTargeting\\WebApplication2.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Pronia.props",
+      "PackagePath": "buildMultiTargeting\\Pronia.props"
     },
     {
-      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication2.props",
-      "PackagePath": "buildTransitive\\WebApplication2.props"
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Pronia.props",
+      "PackagePath": "buildTransitive\\Pronia.props"
     }
   ],
   "ElementsToRemove": []

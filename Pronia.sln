@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{481511D7-BBC5-4C80-9999-995C3E78B602}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pronia", "WebApplication2\Pronia.csproj", "{481511D7-BBC5-4C80-9999-995C3E78B602}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
