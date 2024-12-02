@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Pronia.Models;
 using WebApplication2.Models;
 
 namespace WebApplication2.DAL
@@ -10,5 +11,7 @@ namespace WebApplication2.DAL
 		public DbSet<Category> Categories { get; set; }
 		public DbSet<Product> Products { get; set; }
 		public DbSet<ProductImage> ProductImages { get; set; }
+		public DbSet<Tag> Tags { get; set; }
+		public DbSet<ProductTag> ProductTags { get; set; }
 	}
 }

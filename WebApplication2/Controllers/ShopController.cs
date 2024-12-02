@@ -23,8 +23,10 @@ namespace WebApplication2.Controllers
 			if (id == null || id < 0) return BadRequest();
 
 			Product? product = await _context.Products
-				.Include(product => product.ProductImages.OrderByDescending(pi => pi.IsPrimary))
+				.Include(p => p.ProductImages.OrderByDescending(pi => pi.IsPrimary))
 				.Include(p => p.Category)
+				.Include(p => p.productTags)
+				.ThenInclude(p => p.Tag)
 				.FirstOrDefaultAsync(p => p.Id == id);
 
 			if (product is null) return NotFound();
@@ -39,6 +41,7 @@ namespace WebApplication2.Controllers
 				.Take(8)
 				.ToListAsync(),
 			};
+
 			return View(detailVM);
 		}
 	}

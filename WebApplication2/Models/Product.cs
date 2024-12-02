@@ -1,4 +1,5 @@
-﻿using WebApplication2.Models.Base;
+﻿using Pronia.Models;
+using WebApplication2.Models.Base;
 
 namespace WebApplication2.Models
 {
@@ -10,8 +11,9 @@ namespace WebApplication2.Models
 		public string SKU { get; set; }
 
 		//relational
-		public string CategoryName { get; set; }
+		public int CategoryId { get; set; }
 		public Category Category { get; set; }
 		public List<ProductImage> ProductImages { get; set; }
+		public List<ProductTag> ProductTags { get; set; }
 	}
 }
