@@ -37,7 +37,6 @@ namespace WebApplication2.Areas.Admin.Controllers
 		{
 			if (!ModelState.IsValid) return View();
 
-
 			if (!slideVM.Photo.ValidateType("image"))
 			{
 				ModelState.AddModelError("Photo", "File type is incorrect");
