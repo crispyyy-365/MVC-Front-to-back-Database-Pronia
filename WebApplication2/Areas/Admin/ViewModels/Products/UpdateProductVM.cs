@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using WebApplication2.Models;
 
-namespace Pronia.Areas.Admin.ViewModels.Products
+namespace Pronia.Areas.Admin.ViewModels
 {
 	public class UpdateProductVM
 	{

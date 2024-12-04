@@ -6,7 +6,22 @@
             <div class="card-body">
                 <h4 class="card-title">Create Product</h4>
 
-                <form class="forms-sample" method="post">
+                <form class="forms-sample" method="post" enctype="multipart/form-data">
+                    <div class="form-group">
+                        <label asp-for="MainPhoto">Main Image</label>
+                        <input asp-for="MainPhoto" class="form-control" accept="image/*">
+                        <span asp-validation-for="MainPhoto" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="HoverPhoto">Secondary Image</label>
+                        <input asp-for="HoverPhoto" class="form-control" accept="image/*">
+                        <span asp-validation-for="HoverPhoto" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="AdditionalPhotos">Additional Images</label>
+                        <input asp-for="AdditionalPhotos" class="form-control" accept="image/*">
+                        <span asp-validation-for="AdditionalPhotos" class="text-danger"></span>
+                    </div>
                     <div class="form-group">
                         <label asp-for="Name">Name</label>
                         <input asp-for="Name" class="form-control" placeholder="Name" accept="image/*">
@@ -24,24 +39,25 @@
                     </div>
                     <div class="form-group">
                         <label asp-for="CategoryId">Category</label>
-                        <select asp-for=CategoryId class="form-control" asp-items="new SelectList(Model.Categories, nameof(Category.Id), nameof(Category.Name))">
+                        <select asp-for=CategoryId class="form-control" asp-items="new SelectList(Model.Categories,nameof(Category.Id),nameof(Category.Name))">
                             <option selected disabled value="">Choose Category</option>
                         </select>
                         <span asp-validation-for="CategoryId" class="text-danger"></span>
                     </div>
                     <div class="form-group">
-                        <label asp-for="TagIds">Tag</label>
-                        <select asp-for=TagIds class="form-control" asp-items="new SelectList(Model.Tags, nameof(Tag.Id), nameof(Tag.Name))">
+                        <label asp-for="TagIds">Tags</label>
+                        <select asp-for=TagIds class="form-control" asp-items="new SelectList(Model.Tags,nameof(Tag.Id),nameof(Tag.Name))">
                         </select>
                         <span asp-validation-for="TagIds" class="text-danger"></span>
                     </div>
                     <div class="form-group">
                         <label asp-for="Description">Description</label>
-                        <input asp-for="Description" class="form-control" placeholder="Description">
+                        <textarea asp-for="Description" class="form-control" placeholder="Description"></textarea>
                         <span asp-validation-for="Description" class="text-danger"></span>
                     </div>
+
                     <button type="submit" class="btn btn-primary me-2">Submit</button>
-                    <button class="btn btn-light">Cancel</button>
+                    <a asp-action="index" class="btn btn-light">Cancel</a>
                 </form>
             </div>
         </div>

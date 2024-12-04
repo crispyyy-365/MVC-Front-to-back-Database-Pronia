@@ -1,4 +1,4 @@
-﻿namespace Pronia.Areas.Admin.ViewModels.Slides
+﻿namespace Pronia.Areas.Admin.ViewModels
 {
 	public class UpdateSlideVM
 	{

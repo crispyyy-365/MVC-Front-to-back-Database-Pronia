@@ -2,10 +2,13 @@
 using System.ComponentModel.DataAnnotations;
 using WebApplication2.Models;
 
-namespace Pronia.Areas.Admin.ViewModels.Products
+namespace Pronia.Areas.Admin.ViewModels
 {
 	public class CreateProductVM
 	{
+		public IFormFile MainPhoto { get; set; }
+		public IFormFile HoverPhoto { get; set; }
+		public List<IFormFile>? AdditionalPhotos { get; set; }
 		public string Name { get; set; }
 		[Required]
 		public decimal? Price { get; set; }

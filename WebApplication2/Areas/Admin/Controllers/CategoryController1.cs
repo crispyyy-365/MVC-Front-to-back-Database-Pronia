@@ -1,7 +1,6 @@
-﻿using Azure.Core;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Newtonsoft.Json;
+using Pronia.Areas.Admin.ViewModels;
 using WebApplication2.DAL;
 using WebApplication2.Models;
 
@@ -18,10 +17,15 @@ namespace WebApplication2.Areas.Admin.Controllers
 		}
 		public async Task<IActionResult> Index()
 		{
-			List<Category> categories = await _context.Categories
+			var categories = await _context.Categories
 				.Where(c => !c.IsDeleted)
 				.Include(c => c.products)
-				.ToListAsync();
+				.Select(c => new GetCategoryAdminVM
+				{
+					Id = c.Id,
+					Name = c.Name,
+					ProductCount = c.products.Count
+				}).ToListAsync();
 
 			return View(categories);
 		}

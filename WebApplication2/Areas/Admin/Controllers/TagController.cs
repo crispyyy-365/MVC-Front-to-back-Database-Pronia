@@ -47,11 +47,8 @@ namespace Pronia.Areas.Admin.Controllers
 		public async Task<IActionResult> Update(int? id)
 		{
 			if (id == null || id < 1) return BadRequest();
-
 			Tag? existed = await _context.Tags.FirstOrDefaultAsync(t => t.Id == id);
-
 			if (existed is null) return NotFound();
-
 			return View(existed);
 		}
 		[HttpPost]
