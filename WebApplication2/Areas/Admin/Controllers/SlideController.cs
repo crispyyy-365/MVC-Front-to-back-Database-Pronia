@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
 using Microsoft.VisualStudio.Web.CodeGeneration;
 using Pronia.Areas.Admin.ViewModels;
-using Pronia.Areas.Admin.ViewModels.Slides;
+using Pronia.Areas.Admin.ViewModels;
 using WebApplication2.DAL;
 using WebApplication2.Models;
 using WebApplication2.Utilities.Extensions;
