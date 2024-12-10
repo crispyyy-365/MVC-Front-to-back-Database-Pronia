@@ -22,10 +22,10 @@ namespace Pronia.Areas.Admin.Controllers
 		}
 		public async Task<IActionResult> Index()
 		{
-			List<GetProductAdminVM> productsVMs= await _context.Products
+			List<GetProductAdminVM> productsVMs = await _context.Products
 				.Include(p => p.Category)
 				.Include(p => p.ProductImages.Where(pi => pi.IsPrimary == true))
-				.Select(p=>new GetProductAdminVM
+				.Select(p => new GetProductAdminVM
 				{
 					Id = p.Id,
 					Name = p.Name,
