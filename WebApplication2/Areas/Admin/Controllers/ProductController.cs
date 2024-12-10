@@ -43,7 +43,7 @@ namespace Pronia.Areas.Admin.Controllers
 				Tags = await _context.Tags.ToListAsync(),
 				Categories = await _context.Categories.ToListAsync(),
 			};
-			return View();
+			return View(productsVM);
 		}
 		[HttpPost]
 		public async Task<IActionResult> Create(CreateProductVM productVM)

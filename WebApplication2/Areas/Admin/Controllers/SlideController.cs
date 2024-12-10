@@ -1,8 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.EntityFrameworkCore.Storage.ValueConversion.Internal;
-using Microsoft.VisualStudio.Web.CodeGeneration;
-using Pronia.Areas.Admin.ViewModels;
 using Pronia.Areas.Admin.ViewModels;
 using WebApplication2.DAL;
 using WebApplication2.Models;
@@ -114,7 +111,7 @@ namespace WebApplication2.Areas.Admin.Controllers
 				existed.Image = fileName;
 			}
 
-			existed.Title = slideVM.Title;	
+			existed.Title = slideVM.Title;
 			existed.Description = slideVM.Description;
 			existed.SubTitle = slideVM.Subtitle;
 			existed.Order = slideVM.Order;

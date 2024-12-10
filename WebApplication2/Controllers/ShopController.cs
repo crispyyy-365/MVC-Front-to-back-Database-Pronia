@@ -20,7 +20,7 @@ namespace WebApplication2.Controllers
 		}
 		public async Task<IActionResult> Detail(int? id)
 		{
-			if (id == null || id < 0) return BadRequest();
+			if (id is null || id < 0) return BadRequest();
 
 			Product? product = await _context.Products
 				.Include(p => p.ProductImages.OrderByDescending(pi => pi.IsPrimary))

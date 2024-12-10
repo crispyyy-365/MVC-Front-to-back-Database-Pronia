@@ -1,8 +1,9 @@
 ﻿using WebApplication2.Models;
+using WebApplication2.Models.Base;
 
 namespace Pronia.Models
 {
-	public class ProductTag
+	public class ProductTag : BaseEntity
 	{
 		public int Id { get; set; }
 		public int ProductId { get; set; }

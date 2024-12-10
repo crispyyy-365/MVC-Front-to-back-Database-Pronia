@@ -3,84 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\controllers\\categorycontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,12 +19,144 @@
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\migrations\\20241123000044_createdbandtables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\migrations\\20241123000044_createdbandtables.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\migrations\\20241123000044_createdbandtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\migrations\\20241123000044_createdbandtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\viewmodels\\account\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\shop\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\controllers\\slidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\slide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\viewmodels\\tags\\gettagadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\viewmodels\\tags\\gettagadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\viewmodels\\categories\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\viewmodels\\categories\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\viewmodels\\slides\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\viewmodels\\slides\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\utilities\\enums\\filesize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\utilities\\extensions\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\viewmodels\\detailvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -115,10 +175,6 @@
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\viewmodels\\products\\createproductvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -127,16 +183,8 @@
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\slide\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\viewmodels\\categories\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\viewmodels\\categories\\getcategoryadminvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -159,10 +207,6 @@
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\viewmodels\\slides\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\viewmodels\\slides\\updateslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\viewmodels\\slides\\createslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\viewmodels\\slides\\createslidevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -171,32 +215,12 @@
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\controllers\\tagcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\pronia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\pronia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\migrations\\20241123000044_createdbandtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|solutionrelative:webapplication2\\migrations\\20241123000044_createdbandtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{481511D7-BBC5-4C80-9999-995C3E78B602}|WebApplication2\\Pronia.csproj|c:\\users\\user\\desktop\\code.homeworks\\webapplication2\\webapplication2\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -298,550 +322,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\DAL\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\DAL\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\DAL\\AppDbContext.cs",
-              "RelativeToolTip": "WebApplication2\\DAL\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T06:25:09.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\appsettings.json",
-              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\appsettings.json",
-              "RelativeToolTip": "WebApplication2\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-21T07:39:20.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Base\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\Base\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Base\\BaseEntity.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\Base\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T06:19:50.842Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Product.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T09:57:14.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ShopController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Controllers\\ShopController.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Controllers\\ShopController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Controllers\\ShopController.cs",
               "RelativeToolTip": "WebApplication2\\Controllers\\ShopController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-23T06:58:13.25Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:24:04.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Category.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T09:56:55.185Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\ProductImage.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\ProductImage.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\ProductImage.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\ProductImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T09:57:04.212Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Tag.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Tag.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\Tag.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Tag.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\Tag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T20:34:56.685Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AgIAAAABAAAAAAAAAAAAABYBAAAqAAAAAAAAAA==",
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T03:37:03.66Z",
+              "WhenOpened": "2024-12-09T21:27:54.38Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAADgBAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:41:13.019Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T04:38:43.552Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "FileValidator.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Utilities\\Extensions\\FileValidator.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Utilities\\Extensions\\FileValidator.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Utilities\\Extensions\\FileValidator.cs",
-              "RelativeToolTip": "WebApplication2\\Utilities\\Extensions\\FileValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T13:58:28.244Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "DetailVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ViewModels\\DetailVM.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\DetailVM.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ViewModels\\DetailVM.cs",
-              "RelativeToolTip": "WebApplication2\\ViewModels\\DetailVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-23T07:15:05.223Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Slide.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Slide.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\Slide.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Slide.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\Slide.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:18:38.876Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "HomeVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ViewModels\\HomeVM.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\HomeVM.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ViewModels\\HomeVM.cs",
-              "RelativeToolTip": "WebApplication2\\ViewModels\\HomeVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:46:50.923Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAH8BAAAAAAAAAAAAACEAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T04:37:46.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T07:48:22.162Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T07:47:38.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "FileSize.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Utilities\\Enums\\FileSize.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Utilities\\Enums\\FileSize.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Utilities\\Enums\\FileSize.cs",
-              "RelativeToolTip": "WebApplication2\\Utilities\\Enums\\FileSize.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T18:27:56.379Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "CategoryController1.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\CategoryController1.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Controllers\\CategoryController1.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\CategoryController1.cs",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Controllers\\CategoryController1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T04:16:23.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Program.cs",
-              "RelativeToolTip": "WebApplication2\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T04:13:03.282Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Shop\\Detail.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shop\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Shop\\Detail.cshtml",
-              "RelativeToolTip": "WebApplication2\\Views\\Shop\\Detail.cshtml",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAANYBAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-24T20:03:13.55Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T05:00:41.518Z"
+              "WhenOpened": "2024-11-25T05:00:41.518Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "SlideController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\SlideController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Controllers\\SlideController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\SlideController.cs",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Controllers\\SlideController.cs",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAqwAUAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-26T07:51:17.39Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Category\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:15:27.096Z"
+              "WhenOpened": "2024-11-23T07:48:22.162Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "UpdateProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\UpdateProductVM.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\UpdateProductVM.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\UpdateProductVM.cs",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\UpdateProductVM.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwBcAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T12:31:20.683Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Product\\Update.cshtml",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAAAGMAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T19:40:17.656Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T06:03:34.849Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T04:26:20.268Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "CreateProductVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T08:56:20.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T11:29:38.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T08:25:33.682Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-01T08:37:49.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "GetCategoryAdminVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-03T09:03:02.302Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "GetProductAdminVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\GetProductAdminVM.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\GetProductAdminVM.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\GetProductAdminVM.cs",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\GetProductAdminVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T07:46:35.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-26T07:58:22Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-28T06:44:56.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T03:36:29.901Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "UpdateSlideVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\UpdateSlideVM.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\UpdateSlideVM.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\UpdateSlideVM.cs",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\UpdateSlideVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T05:53:24.397Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "CreateSlideVM.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\CreateSlideVM.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\CreateSlideVM.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\CreateSlideVM.cs",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\CreateSlideVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-28T05:27:16.673Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T04:09:14.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "ProductTag.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\ProductTag.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Models\\ProductTag.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\ProductTag.cs",
-              "RelativeToolTip": "WebApplication2\\Models\\ProductTag.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T20:36:20.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "TagController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\TagController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Controllers\\TagController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\TagController.cs",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Controllers\\TagController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T08:12:02.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T03:25:45.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Shop\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication2\\Views\\Shop\\Index.cshtml",
@@ -849,23 +382,89 @@
               "RelativeToolTip": "WebApplication2\\Views\\Shop\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoBAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-23T07:00:56.545Z"
+              "WhenOpened": "2024-11-23T07:00:56.545Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "WebApplication2\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "WebApplication2\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-25T03:25:04.146Z"
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:38:43.552Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:05:15.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "WebApplication2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:13:03.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryController1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\CategoryController1.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Controllers\\CategoryController1.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\CategoryController1.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Controllers\\CategoryController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T04:16:23.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Tag.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T20:34:56.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\ProductTag.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\ProductTag.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\ProductTag.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\ProductTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:03:38.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "20241123000044_CreateDbAndTables.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Migrations\\20241123000044_CreateDbAndTables.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20241123000044_CreateDbAndTables.cs",
@@ -877,7 +476,511 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\CreateProductVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:56:20.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:41:13.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-21T04:37:46.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-23T07:47:38.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RegisterVm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\Account\\RegisterVm.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ViewModels\\Account\\RegisterVm.cs",
+              "RelativeToolTip": "WebApplication2\\ViewModels\\Account\\RegisterVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:26:24.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20241123000044_CreateDbAndTables.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Migrations\\20241123000044_CreateDbAndTables.Designer.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Migrations\\20241123000044_CreateDbAndTables.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Migrations\\20241123000044_CreateDbAndTables.Designer.cs",
+              "RelativeToolTip": "WebApplication2\\Migrations\\20241123000044_CreateDbAndTables.Designer.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:47:54.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:24:04.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "WebApplication2\\DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:25:09.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Shop\\Detail.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Views\\Shop\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Views\\Shop\\Detail.cshtml",
+              "RelativeToolTip": "WebApplication2\\Views\\Shop\\Detail.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAANYBAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-24T20:03:13.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\AppUser.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:15:03.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SlideController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Controllers\\SlideController.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAHEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T07:51:17.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\ProductImage.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:57:04.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Slide.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Slide.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Slide.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Slide.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Slide.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:18:38.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TagController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\TagController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Controllers\\TagController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\TagController.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Controllers\\TagController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:12:02.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Product.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:57:14.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T03:25:45.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Category.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T09:56:55.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "WebApplication2\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:19:50.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "GetTagAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Tags\\GetTagAdminVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Tags\\GetTagAdminVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Tags\\GetTagAdminVM.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Tags\\GetTagAdminVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:03:36.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GetCategoryAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Categories\\GetCategoryAdminVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:03:02.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UpdateSlideVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\UpdateSlideVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\UpdateSlideVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\UpdateSlideVM.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\UpdateSlideVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:53:24.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "FileSize.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Utilities\\Enums\\FileSize.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Utilities\\Enums\\FileSize.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Utilities\\Enums\\FileSize.cs",
+              "RelativeToolTip": "WebApplication2\\Utilities\\Enums\\FileSize.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:27:56.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FileValidator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Utilities\\Extensions\\FileValidator.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Utilities\\Extensions\\FileValidator.cs",
+              "RelativeToolTip": "WebApplication2\\Utilities\\Extensions\\FileValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T13:58:28.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "WebApplication2\\ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T04:46:50.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DetailVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ViewModels\\DetailVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\ViewModels\\DetailVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ViewModels\\DetailVM.cs",
+              "RelativeToolTip": "WebApplication2\\ViewModels\\DetailVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:15:05.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAP0AAAAAAAAAAIBJwBYBAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T03:37:03.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication2\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "WebApplication2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-21T07:39:20.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Category\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:15:27.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "UpdateProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\UpdateProductVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\UpdateProductVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\UpdateProductVM.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\UpdateProductVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T12:31:20.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAIBJwGMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T19:40:17.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T06:03:34.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:26:20.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T11:29:38.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T08:25:33.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-01T08:37:49.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "GetProductAdminVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\GetProductAdminVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\GetProductAdminVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Products\\GetProductAdminVM.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Products\\GetProductAdminVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T07:46:35.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-26T07:58:22Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 49,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Slide\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-28T06:44:56.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T03:36:29.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CreateSlideVM.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\CreateSlideVM.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\CreateSlideVM.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\CreateSlideVM.cs",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\ViewModels\\Slides\\CreateSlideVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T05:27:16.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication2\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-25T04:09:14.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "WebApplication2\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "WebApplication2\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-25T03:25:04.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "WebApplication2\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -889,19 +992,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 53,
               "Title": "Pronia.csproj",
-              "DocumentMoniker": "C:\\Users\\User\\desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Pronia.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Pronia.csproj",
               "RelativeDocumentMoniker": "WebApplication2\\Pronia.csproj",
-              "ToolTip": "C:\\Users\\User\\desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Pronia.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\Pronia.csproj",
               "RelativeToolTip": "WebApplication2\\Pronia.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-11-21T06:24:18.572Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 56,
               "Title": "_modal.scss",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\scss\\_modal.scss",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\scss\\_modal.scss",
@@ -913,7 +1016,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 57,
               "Title": "_login-register.scss",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\scss\\_login-register.scss",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\scss\\_login-register.scss",
@@ -925,7 +1028,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 58,
               "Title": "_footer.scss",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\scss\\_footer.scss",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\scss\\_footer.scss",
@@ -937,7 +1040,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 59,
               "Title": "main.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\main.js",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\js\\main.js",
@@ -949,7 +1052,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 60,
               "Title": "tippy.min.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\plugins\\tippy.min.js",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\js\\plugins\\tippy.min.js",
@@ -961,7 +1064,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 61,
               "Title": "swiper-bundle.min.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\plugins\\swiper-bundle.min.js",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\js\\plugins\\swiper-bundle.min.js",
@@ -973,7 +1076,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 62,
               "Title": "parallax.min.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\plugins\\parallax.min.js",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\js\\plugins\\parallax.min.js",
@@ -985,7 +1088,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 63,
               "Title": "mailchimp-ajax.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\plugins\\mailchimp-ajax.js",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\js\\plugins\\mailchimp-ajax.js",
@@ -997,7 +1100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 64,
               "Title": "jquery.nice-select.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\plugins\\jquery.nice-select.js",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\js\\plugins\\jquery.nice-select.js",
@@ -1009,7 +1112,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 65,
               "Title": "jquery.magnific-popup.min.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\plugins\\jquery.magnific-popup.min.js",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\js\\plugins\\jquery.magnific-popup.min.js",
@@ -1021,19 +1124,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 66,
               "Title": "jquery.counterup.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\plugins\\jquery.counterup.js",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\js\\plugins\\jquery.counterup.js",
               "ToolTip": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\plugins\\jquery.counterup.js",
               "RelativeToolTip": "WebApplication2\\wwwroot\\assets\\js\\plugins\\jquery.counterup.js",
-              "ViewState": "AgIAAC0AAAAAAAAAACBjwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAIBpwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2024-11-20T20:42:40.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 67,
               "Title": "ion.rangeSlider.min.js",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\js\\plugins\\ion.rangeSlider.min.js",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\js\\plugins\\ion.rangeSlider.min.js",
@@ -1045,7 +1148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 68,
               "Title": "Pe-icon-7-stroke.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\Pe-icon-7-stroke.css",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\css\\Pe-icon-7-stroke.css",
@@ -1057,7 +1160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 69,
               "Title": "nice-select.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\nice-select.css",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\css\\nice-select.css",
@@ -1069,7 +1172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 70,
               "Title": "plugins.min.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\plugins.min.css",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\css\\plugins.min.css",
@@ -1081,7 +1184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 71,
               "Title": "bootstrap.min.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\bootstrap.min.css",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\css\\bootstrap.min.css",
@@ -1093,7 +1196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 72,
               "Title": "ion.rangeSlider.min.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\ion.rangeSlider.min.css",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\css\\ion.rangeSlider.min.css",
@@ -1105,7 +1208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 73,
               "Title": "font-awesome.min.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\font-awesome.min.css",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\css\\font-awesome.min.css",
@@ -1117,7 +1220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 74,
               "Title": "animate.min.css",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\code.homeworks\\WebApplication2\\WebApplication2\\wwwroot\\assets\\css\\animate.min.css",
               "RelativeDocumentMoniker": "WebApplication2\\wwwroot\\assets\\css\\animate.min.css",
