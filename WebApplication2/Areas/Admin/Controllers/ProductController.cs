@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis;
 using Microsoft.EntityFrameworkCore;
 using Pronia.Areas.Admin.ViewModels;
@@ -11,6 +12,7 @@ using WebApplication2.Utilities.Extensions;
 namespace Pronia.Areas.Admin.Controllers
 {
 	[Area("Admin")]
+	//[Authorize(Roles ="Admin,Moderator")]
 	public class ProductController : Controller
 	{
 		public AppDbContext _context { get; set; }
@@ -145,6 +147,7 @@ namespace Pronia.Areas.Admin.Controllers
 			await _context.SaveChangesAsync();
 			return RedirectToAction(nameof(Index));
 		}
+		//[Authorize(Roles ="Admin")]
 		public async Task<IActionResult> Update(int? id)
 		{
 			if (id is null || id < 0) return BadRequest();
