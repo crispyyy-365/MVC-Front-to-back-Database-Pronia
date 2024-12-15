@@ -1,5 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
-using WebApplication2.Models.Base;
+using Pronia.Models.Base;
 
 namespace Pronia.Models
 {

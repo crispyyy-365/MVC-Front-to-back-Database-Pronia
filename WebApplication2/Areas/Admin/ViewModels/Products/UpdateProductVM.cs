@@ -1,6 +1,6 @@
 ﻿using Pronia.Models;
 using System.ComponentModel.DataAnnotations;
-using WebApplication2.Models;
+using Pronia.Models;
 
 namespace Pronia.Areas.Admin.ViewModels
 {
@@ -20,7 +20,6 @@ namespace Pronia.Areas.Admin.ViewModels
 		public List<int>? ImageIds { get; set; }
 		public List<Category>? Categories { get; set; }
 		public List<Tag>? Tags { get; set; }
-
 		public List<ProductImage>? ProductImages { get; set; }
 	}
 }

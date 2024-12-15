@@ -1,9 +1,9 @@
 ﻿using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.EntityFrameworkCore.Metadata.Conventions;
-using WebApplication2.Models;
-using WebApplication2.Utilities.Enums;
+using Pronia.Models;
+using Pronia.Utilities.Enums;
 
-namespace WebApplication2.Utilities.Extensions
+namespace Pronia.Utilities.Extensions
 {
 	public static class FileValidator
 	{

@@ -3,16 +3,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.CodeAnalysis;
 using Microsoft.EntityFrameworkCore;
 using Pronia.Areas.Admin.ViewModels;
+using Pronia.DAL;
 using Pronia.Models;
-using WebApplication2.DAL;
-using WebApplication2.Models;
-using WebApplication2.Utilities.Enums;
-using WebApplication2.Utilities.Extensions;
+using Pronia.Utilities.Enums;
+using Pronia.Utilities.Extensions;
 
 namespace Pronia.Areas.Admin.Controllers
 {
 	[Area("Admin")]
-	//[Authorize(Roles ="Admin,Moderator")]
+	//[Authorize(Roles = "Admin, Moderator")]
 	public class ProductController : Controller
 	{
 		public AppDbContext _context { get; set; }
@@ -50,8 +49,9 @@ namespace Pronia.Areas.Admin.Controllers
 		[HttpPost]
 		public async Task<IActionResult> Create(CreateProductVM productVM)
 		{
-			productVM.Categories = await _context.Categories.ToListAsync();
 			productVM.Tags = await _context.Tags.ToListAsync();
+			productVM.Categories = await _context.Categories.ToListAsync();
+
 			if(!ModelState.IsValid) return View(productVM);
 
 			if (!productVM.MainPhoto.ValidateType("image/")) 
@@ -147,12 +147,16 @@ namespace Pronia.Areas.Admin.Controllers
 			await _context.SaveChangesAsync();
 			return RedirectToAction(nameof(Index));
 		}
-		//[Authorize(Roles ="Admin")]
+		//[Authorize(Roles = "Admin")]
 		public async Task<IActionResult> Update(int? id)
 		{
 			if (id is null || id < 0) return BadRequest();
-			Product? product = await _context.Products.Include(p => p.ProductImages).Include(p => p.ProductTags).FirstOrDefaultAsync(c => c.Id == id);
+			Product? product = await _context.Products
+				.Include(p => p.ProductImages)
+				.Include(p => p.ProductTags)
+				.FirstOrDefaultAsync(c => c.Id == id);
 			if (product is null) return NotFound();
+
 			UpdateProductVM productVM = new()
 			{
 				Name = product.Name,
@@ -171,14 +175,19 @@ namespace Pronia.Areas.Admin.Controllers
 		public async Task<IActionResult> Update(int? id, UpdateProductVM productVM)
 		{
 			if (id is null || id < 0) return BadRequest();
-			Product? existed = await _context.Products.Include(p => p.ProductImages).Include(p => p.ProductTags).FirstOrDefaultAsync(c => c.Id == id);
+			Product? existed = await _context.Products
+				.Include(p => p.ProductImages)
+				.Include(p => p.ProductTags)
+				.FirstOrDefaultAsync(c => c.Id == id);
 			if (existed is null) return NotFound();
+
 			productVM.Categories = await _context.Categories.ToListAsync();
 			productVM.Tags = await _context.Tags.ToListAsync();
 			productVM.ProductImages = existed.ProductImages;
+
 			if(!ModelState.IsValid) return View(productVM);
 
-			if (productVM.ProductImages is not null) 
+			if (productVM.ProductImages is not null)
 			{
 				if (!productVM.MainPhoto.ValidateType("image/"))
 				{
@@ -226,11 +235,12 @@ namespace Pronia.Areas.Admin.Controllers
 			{
 				productVM.TagIds = productVM.TagIds.Distinct().ToList();
 			}
-
-			_context.ProductTags.RemoveRange(existed.ProductTags
+			_context.ProductTags
+				.RemoveRange(existed.ProductTags
 				.Where(pTag => !productVM.TagIds.Exists(tId => tId == pTag.TagId))
 				.ToList());
-			_context.ProductTags.AddRange(productVM.TagIds
+			_context.ProductTags
+				.AddRange(productVM.TagIds
 				.Where(tId => !existed.ProductTags.Exists(pTag => pTag.TagId == tId))
 				.ToList()
 				.Select(tId => new ProductTag { TagId = tId, ProductId = existed.Id }));
@@ -267,7 +277,7 @@ namespace Pronia.Areas.Admin.Controllers
 			}
 			if (productVM.ImageIds is null)
 			{
-				productVM.ImageIds = new List<int>();
+				productVM.ImageIds = new();
 			}
 			var deletedImages = existed.ProductImages
 				.Where(pi => !productVM.ImageIds
@@ -303,6 +313,7 @@ namespace Pronia.Areas.Admin.Controllers
 				}
 				TempData["FileWarning"] = text;
 			}
+
 			existed.SKU = productVM.SKU;
 			existed.Price = productVM.Price.Value;
 			existed.CategoryId = productVM.CategoryId.Value;

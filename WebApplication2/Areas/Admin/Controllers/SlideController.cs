@@ -1,13 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pronia.Areas.Admin.ViewModels;
-using WebApplication2.DAL;
-using WebApplication2.Models;
-using WebApplication2.Utilities.Extensions;
+using Pronia.DAL;
+using Pronia.Models;
+using Pronia.Utilities.Extensions;
 
-namespace WebApplication2.Areas.Admin.Controllers
+namespace Pronia.Areas.Admin.Controllers
 {
 	[Area("Admin")]
+	//[Authorize(Roles = "Admin, Moderator")]
 	public class SlideController : Controller
 	{
 		private readonly AppDbContext _context;
@@ -63,6 +64,7 @@ namespace WebApplication2.Areas.Admin.Controllers
 
 			return RedirectToAction(nameof(Index));
 		}
+		//[Authorize(Roles = "Admin")]
 		public async Task<IActionResult> Update(int? id)
 		{
 			if (id == null || id < 1) return BadRequest();

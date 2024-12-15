@@ -1,16 +1,15 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Pronia.DAL;
 using Pronia.Models;
-using WebApplication2.DAL;
-using WebApplication2.Models;
+using Pronia.Models;
 
 namespace Pronia.Areas.Admin.Controllers
 {
 	[Area("Admin")]
+	//[Authorize(Roles = "Admin, Moderator")]
 	public class TagController : Controller
 	{
-		private object exsited;
-
 		public AppDbContext _context { get; set; }
 		public IWebHostEnvironment _env { get; set; }
 		public TagController(AppDbContext contex, IWebHostEnvironment env)
@@ -44,6 +43,7 @@ namespace Pronia.Areas.Admin.Controllers
 			await _context.SaveChangesAsync();
 			return RedirectToAction(nameof(Index));
 		}
+		//[Authorize(Roles = "Admin")]
 		public async Task<IActionResult> Update(int? id)
 		{
 			if (id == null || id < 1) return BadRequest();

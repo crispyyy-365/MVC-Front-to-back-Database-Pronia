@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WebApplication2.DAL;
-using WebApplication2.Models;
-using WebApplication2.ViewModels;
+using Pronia.DAL;
+using Pronia.Models;
+using Pronia.ViewModels;
 
-namespace WebApplication2.Controllers
+namespace Pronia.Controllers
 {
 	public class HomeController : Controller
 	{
@@ -29,7 +29,7 @@ namespace WebApplication2.Controllers
 				.ToListAsync()
 			};
 
-		    //_context.SaveChanges();
+			//_context.SaveChanges();
 
 			return View(homeVm);
 		}

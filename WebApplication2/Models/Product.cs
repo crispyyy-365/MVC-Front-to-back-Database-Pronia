@@ -1,7 +1,7 @@
 ﻿using Pronia.Models;
-using WebApplication2.Models.Base;
+using Pronia.Models.Base;
 
-namespace WebApplication2.Models
+namespace Pronia.Models
 {
 	public class Product : BaseEntity
 	{

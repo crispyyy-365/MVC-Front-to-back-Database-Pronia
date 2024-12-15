@@ -2,9 +2,9 @@
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 using Pronia.Models;
-using WebApplication2.Models;
+using Pronia.Models;
 
-namespace WebApplication2.DAL
+namespace Pronia.DAL
 {
 	public class AppDbContext : IdentityDbContext<AppUser>
 	{

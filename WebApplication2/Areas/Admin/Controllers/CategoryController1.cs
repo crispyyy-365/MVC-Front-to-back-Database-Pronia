@@ -1,16 +1,16 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pronia.Areas.Admin.ViewModels;
-using WebApplication2.DAL;
-using WebApplication2.Models;
+using Pronia.DAL;
+using Pronia.Models;
 
-namespace WebApplication2.Areas.Admin.Controllers
+namespace Pronia.Areas.Admin.Controllers
 {
 	[Area("Admin")]
+	//[Authorize(Roles = "Admin, Moderator")]
 	public class CategoryController1 : Controller
 	{
 		public readonly AppDbContext _context;
-
 		public CategoryController1(AppDbContext context)
 		{
 			_context = context;
@@ -51,6 +51,7 @@ namespace WebApplication2.Areas.Admin.Controllers
 
 			return RedirectToAction(nameof(Index));
 		}
+		//[Authorize(Roles = "Admin")]
 		public async Task<IActionResult> Update(int?id)
 		{
 			if (id == null || id < 1) return BadRequest();
@@ -85,7 +86,6 @@ namespace WebApplication2.Areas.Admin.Controllers
 
 			existed.Name = category.Name;
 			await _context.SaveChangesAsync();
-
 			return RedirectToAction(nameof(Index));	
 
 		}
@@ -98,11 +98,9 @@ namespace WebApplication2.Areas.Admin.Controllers
 
 			if (category is null) return NotFound();
 
-			
 			category.IsDeleted = true;
 
 			await _context.SaveChangesAsync();
-
 			return RedirectToAction(nameof(Index));
 		}
 	}

@@ -1,4 +1,4 @@
-﻿namespace WebApplication2.Utilities.Enums
+﻿namespace Pronia.Utilities.Enums
 {
 	public enum FileSize
 	{

@@ -1,5 +1,5 @@
-﻿using WebApplication2.Models;
-using WebApplication2.Models.Base;
+﻿using Pronia.Models;
+using Pronia.Models.Base;
 
 namespace Pronia.Models
 {

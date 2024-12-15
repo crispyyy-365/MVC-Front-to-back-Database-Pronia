@@ -4,13 +4,14 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using WebApplication2.DAL;
+using Pronia.DAL;
+
 
 #nullable disable
 
-namespace WebApplication2.Migrations
+namespace Pronia.Migrations
 {
-    [DbContext(typeof(AppDbContext))]
+	[DbContext(typeof(AppDbContext))]
     partial class AppDbContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

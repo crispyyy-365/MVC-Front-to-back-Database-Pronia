@@ -1,11 +1,11 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using WebApplication2.DAL;
 using Pronia.Models;
+using Pronia.DAL;
 
-namespace WebApplication2
+namespace Pronia
 {
-    public class Program
+	public class Program
     {
         public static void Main(string[] args)
         {

@@ -5,13 +5,14 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using WebApplication2.DAL;
+using Pronia.DAL;
+
 
 #nullable disable
 
-namespace WebApplication2.Migrations
+namespace Pronia.Migrations
 {
-    [DbContext(typeof(AppDbContext))]
+	[DbContext(typeof(AppDbContext))]
     [Migration("20241123000044_CreateDbAndTables")]
     partial class CreateDbAndTables
     {

@@ -1,4 +1,4 @@
-﻿namespace WebApplication2.Models.Base
+﻿namespace Pronia.Models.Base
 {
 	public abstract class BaseEntity
 	{

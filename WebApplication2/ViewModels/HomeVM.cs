@@ -1,6 +1,7 @@
-﻿using WebApplication2.Models;
+﻿using Pronia.Models;
+using Pronia.Models;
 
-namespace WebApplication2.ViewModels
+namespace Pronia.ViewModels
 {
 	public class HomeVM
 	{

@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
-using WebApplication2.DAL;
-using WebApplication2.Models;
-using WebApplication2.ViewModels;
+using Pronia.DAL;
+using Pronia.Models;
+using Pronia.ViewModels;
 
-namespace WebApplication2.Controllers
+namespace Pronia.Controllers
 {
 	public class ShopController : Controller
 	{
@@ -41,7 +41,6 @@ namespace WebApplication2.Controllers
 				.Take(8)
 				.ToListAsync(),
 			};
-
 			return View(detailVM);
 		}
 	}

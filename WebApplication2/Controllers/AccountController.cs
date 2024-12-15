@@ -1,12 +1,12 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
-using NuGet.Protocol;
 using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages;
 using Pronia.Models;
-using ProniaMVC.Utilities.Enums;
 using Pronia.ViewModels;
-using WebApplication2.Areas.Admin.Controllers;
+using Pronia.Areas.Admin.Controllers;
+using Pronia.ViewModels.Account;
+using Microsoft.EntityFrameworkCore;
+using Pronia.Utilities.Enums;
 
 namespace Pronia.Controllers
 {
@@ -15,8 +15,8 @@ namespace Pronia.Controllers
 		private readonly UserManager<AppUser> _userManager;
 		private readonly SignInManager<AppUser> _signInManager;
 		private readonly RoleManager<IdentityRole> _roleManager;
-		public AccountController(
-			UserManager<AppUser> userManager,
+
+		public AccountController(UserManager<AppUser> userManager,
 			SignInManager<AppUser> signInManager,
 			RoleManager<IdentityRole> roleManager)
 		{
@@ -55,6 +55,11 @@ namespace Pronia.Controllers
 			await _signInManager.SignInAsync(user, false);
 			return RedirectToAction(nameof(HomeController.Index), "Home");
 		}
+		public async Task<IActionResult> LogOut()
+		{
+			await _signInManager.SignOutAsync();
+			return RedirectToAction(nameof(HomeController.Index), "Home");
+		}
 		public IActionResult Login()
 		{
 			return View();
@@ -62,62 +67,40 @@ namespace Pronia.Controllers
 		[HttpPost]
 		public async Task<IActionResult> Login(LoginVM userVM, string? returnUrl)
 		{
-			if (!ModelState.IsValid)
+			if(!ModelState.IsValid)
 			{
 				return View();
 			}
-			AppUser user = await _userManager.Users.FirstOrDefaultAsync(u => u.UserName == userVM.UsernameOrEmail || u.Email == userVM.UsernameOrEmail);
+			AppUser user = await _userManager.Users.FirstOrDefaultAsync(u => u.UserName == userVM.EmailOrUserName || u.Email == userVM.EmailOrUserName);
 			if (user == null)
 			{
-				ModelState.AddModelError(string.Empty, "Username, Email or Password is incorrect");
+				ModelState.AddModelError(string.Empty, "Email or Username or Password is incorrect");
 				return View();
 			}
 			var result = await _signInManager.PasswordSignInAsync(user, userVM.Password, userVM.IsPersistent, true);
-			if (result.IsLockedOut)
-			{
-				ModelState.AddModelError(string.Empty, "Your account is locked, please try later");
-				return View();
-			}
 			if (!result.Succeeded)
 			{
-				ModelState.AddModelError(string.Empty, "Username, Email or Password is incorrect");
+				ModelState.AddModelError(string.Empty, "Email or Username or Password is incorrect");
 				return View();
 			}
-
+			if (result.IsLockedOut)
+			{
+				ModelState.AddModelError(string.Empty, "Your account is locked, try again later");
+				return View();
+			}
 			if (returnUrl is null)
 			{
-				return RedirectToAction("Index", "Home");
-			}
+				return RedirectToAction(nameof(HomeController.Index), "Home");
+			} 
 			return Redirect(returnUrl);
-
-
-			//AppUser user = await _userManager.FindByNameAsync(userVM.UsernameOrEmail);
-			//if(user is null)
-			//{
-			//    user = await _userManager.FindByEmailAsync(userVM.UsernameOrEmail);
-			//    if (user is null)
-			//    {
-			//        ModelState.AddModelError(string.Empty,"Username, Email or Password is incorrect");
-			//        return View();
-			//    }
-			//}
 		}
-		public async Task<IActionResult> LogOut()
+		public async Task<IActionResult> CreateRole()
 		{
-			await _signInManager.SignOutAsync();
+			foreach (UserRole role in Enum.GetValues(typeof(UserRole)))
+			{
+				await _roleManager.CreateAsync(new IdentityRole { Name = role.ToString() });
+			}
 			return RedirectToAction(nameof(HomeController.Index), "Home");
 		}
-		//public async Task<IActionResult> CreateRoles()
-		//{
-		//    foreach (UserRole role in Enum.GetValues(typeof(UserRole)))
-		//    {
-		//        if(!await _roleManager.RoleExistsAsync(role.ToString()))
-		//        {
-		//            await _roleManager.CreateAsync(new IdentityRole { Name = role.ToString() });
-		//        }
-		//    }
-
-		//    return RedirectToAction(nameof(HomeController.Index), "Home");
-		//}
 	}
 }
