@@ -2,6 +2,9 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Pronia.Models;
 using Pronia.DAL;
+using Microsoft.Build.Framework;
+using Pronia.Services.Interfaces;
+using Pronia.Services.Implementations;
 
 namespace Pronia
 {
@@ -25,6 +28,7 @@ namespace Pronia
 
 			builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("Default")));
 
+			builder.Services.AddScoped<ILayoutService, LayoutService>();
 			var app = builder.Build();
 
 			app.UseAuthentication();

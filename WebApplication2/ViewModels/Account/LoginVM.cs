@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Pronia.ViewModels.Account
+namespace Pronia.ViewModels
 {
 	public class LoginVM
 	{

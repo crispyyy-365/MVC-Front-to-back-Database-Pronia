@@ -1,10 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.VisualStudio.Web.CodeGenerators.Mvc.Templates.BlazorIdentity.Pages;
 using Pronia.Models;
 using Pronia.ViewModels;
-using Pronia.Areas.Admin.Controllers;
-using Pronia.ViewModels.Account;
 using Microsoft.EntityFrameworkCore;
 using Pronia.Utilities.Enums;
 

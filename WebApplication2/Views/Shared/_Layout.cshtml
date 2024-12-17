@@ -1,4 +1,8 @@
-﻿﻿
+﻿@using Pronia.Services.Implementations
+@inject LayoutService _layoutService
+@{
+    Dictionary<string, string> settings = await _layoutService.GetSettingsAsync();
+}
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
@@ -98,11 +102,10 @@
                             <div class="header-middle-wrap position-relative">
                                 <div class="header-contact d-none d-lg-flex">
                                     <i class="pe-7s-call"></i>
-                                    <a href="tel://+00-123-456-789">+00 123 456 789</a>
+                                    <a href="tel://@settings["phone"]">@settings["phone"]</a>
                                 </div>
-
-                                <a href="index.html" class="header-logo">
-                                    <img src="~/assets/images/logo/dark.png" alt="Header Logo" />
+                                <a href="www.youtube.com" class="header-logo">
+                                    <img src="~/assets/images/logo/@settings["logo"]" alt="Header Logo" />
                                 </a>
 
                                 <div class="header-right">
@@ -112,7 +115,7 @@
                                                class="search-btn bt"
                                                data-bs-toggle="modal"
                                                data-bs-target="#exampleModal">
-                                                <i class="pe-7s-search"></i>
+                                                @Html.Raw(settings["SearchIcon"])
                                             </a>
                                         </li>
                                         <li class="dropdown d-none d-lg-block">
@@ -303,7 +306,7 @@
                         <div class="row align-items-center">
                             <div class="col-lg-3 col-6">
                                 <a href="index.html" class="header-logo">
-                                    <img src="~/assets/images/logo/dark.png" alt="Header Logo" />
+                                    <img src="~/assets/images/logo/@settings["logo"]" alt="Header Logo" />
                                 </a>
                             </div>
                             <div class="col-lg-6 d-none d-lg-block">
@@ -435,7 +438,7 @@
                                                class="search-btn bt"
                                                data-bs-toggle="modal"
                                                data-bs-target="#exampleModal">
-                                                <i class="pe-7s-search"></i>
+                                                @Html.Raw(settings["SearchIcon"])
                                             </a>
                                         </li>
                                         <li class="dropdown d-none d-lg-block">
