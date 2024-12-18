@@ -26,6 +26,13 @@ namespace Pronia.Controllers
 				.Where(p => p.IsDeleted != false)
 				.Take(8)
 				.Include(p => p.ProductImages.Where(p => p.IsPrimary != false))
+				.ToListAsync(),
+
+				NewProducts = await _context.Products
+				.OrderByDescending(p => p.CreatedAt)
+				.Where(p => p.IsDeleted != false)
+				.Take(8)
+				.Include(p => p.ProductImages.Where(p => p.IsPrimary != false))
 				.ToListAsync()
 			};
 
