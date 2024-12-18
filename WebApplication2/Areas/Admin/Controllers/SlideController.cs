@@ -9,6 +9,7 @@ namespace Pronia.Areas.Admin.Controllers
 {
 	[Area("Admin")]
 	//[Authorize(Roles = "Admin, Moderator")]
+	[ValidateAntiForgeryToken]
 	public class SlideController : Controller
 	{
 		private readonly AppDbContext _context;

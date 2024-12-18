@@ -7,6 +7,7 @@ using Pronia.Models;
 namespace Pronia.Areas.Admin.Controllers
 {
 	[Area("Admin")]
+	[AutoValidateAntiforgeryToken]
 	//[Authorize(Roles = "Admin, Moderator")]
 	public class CategoryController1 : Controller
 	{

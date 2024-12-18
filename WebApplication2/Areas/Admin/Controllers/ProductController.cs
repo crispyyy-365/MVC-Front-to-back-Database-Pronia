@@ -11,6 +11,7 @@ using Pronia.Utilities.Extensions;
 namespace Pronia.Areas.Admin.Controllers
 {
 	[Area("Admin")]
+	[ValidateAntiForgeryToken]
 	//[Authorize(Roles = "Admin, Moderator")]
 	public class ProductController : Controller
 	{

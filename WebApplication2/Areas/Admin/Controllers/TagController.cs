@@ -2,12 +2,12 @@
 using Microsoft.EntityFrameworkCore;
 using Pronia.DAL;
 using Pronia.Models;
-using Pronia.Models;
 
 namespace Pronia.Areas.Admin.Controllers
 {
 	[Area("Admin")]
 	//[Authorize(Roles = "Admin, Moderator")]
+	[ValidateAntiForgeryToken]
 	public class TagController : Controller
 	{
 		public AppDbContext _context { get; set; }
